@@ -1082,7 +1082,7 @@ HTML_TEMPLATE = '''
                 <i class="fas fa-star" style="color: #feca57;"></i>
             </div>
             <div class="footer-signature">
-                Crafted with love for Mathu's excellence ✨
+                Crafted with love for Madhu's excellence ✨
             </div>
         </div>
     </div>
