@@ -747,7 +747,7 @@ HTML_TEMPLATE = '''
 <body>
     <div class="container">
         <header class="header">
-            <h1 class="main-title">✨ Mathu's Study Tracker ✨</h1>
+            <h1 class="main-title">✨ Madhu's Study Tracker ✨</h1>
             <p class="subtitle">Excellence Through Consistency</p>
         </header>
 
